@@ -1,0 +1,223 @@
+[
+  {
+    "code": "W1000",
+    "source": "egger",
+    "url": "https://cdn.egger.com/img/pim/8854478520350/8854478553118/original.png",
+    "width": 951,
+    "height": 2048,
+    "grain": null,
+    "repeatMm": [
+      1300,
+      2800
+    ],
+    "avgColor": "#fbfcf4"
+  },
+  {
+    "code": "H1277",
+    "source": "egger",
+    "url": "https://cdn.egger.com/img/pim/8854371794974/8854526328862/original.png",
+    "width": 951,
+    "height": 2048,
+    "grain": "y",
+    "repeatMm": [
+      1300,
+      2800
+    ],
+    "avgColor": "#dcc4aa"
+  },
+  {
+    "code": "U156",
+    "source": "egger",
+    "url": "https://cdn.egger.com/img/pim/8854427729950/8854547628062/original.png",
+    "width": 951,
+    "height": 2048,
+    "grain": null,
+    "repeatMm": [
+      1300,
+      2800
+    ],
+    "avgColor": "#e7d6c2"
+  },
+  {
+    "code": "H1113",
+    "source": "egger",
+    "url": "https://cdn.egger.com/img/pim/8854361178142/8854521380894/original.png",
+    "width": 951,
+    "height": 2048,
+    "grain": "y",
+    "repeatMm": [
+      1300,
+      2800
+    ],
+    "avgColor": "#aa8764"
+  },
+  {
+    "code": "U732",
+    "source": "egger",
+    "url": "https://cdn.egger.com/img/pim/8854457614366/8854457647134/original.png",
+    "width": 951,
+    "height": 2048,
+    "grain": null,
+    "repeatMm": [
+      1300,
+      2800
+    ],
+    "avgColor": "#848683"
+  },
+  {
+    "code": "F186",
+    "source": "egger",
+    "url": "https://cdn.egger.com/img/pim/8854324805662/8854505521182/original.png",
+    "width": 951,
+    "height": 2048,
+    "grain": "y",
+    "repeatMm": [
+      1300,
+      2800
+    ],
+    "avgColor": "#9b9794"
+  },
+  {
+    "code": "H1199",
+    "source": "egger",
+    "url": "https://cdn.egger.com/img/pim/8854366289950/8854523346974/original.png",
+    "width": 951,
+    "height": 2048,
+    "grain": "y",
+    "repeatMm": [
+      1300,
+      2800
+    ],
+    "avgColor": "#2f231b"
+  },
+  {
+    "code": "U961",
+    "source": "egger",
+    "url": "https://cdn.egger.com/img/pim/8854560931870/8854560964638/original.png",
+    "width": 951,
+    "height": 2048,
+    "grain": null,
+    "repeatMm": [
+      1300,
+      2800
+    ],
+    "avgColor": "#403b38"
+  },
+  {
+    "code": "U708",
+    "source": "egger",
+    "url": "https://cdn.egger.com/img/pim/8854452502558/8854557032478/original.png",
+    "width": 951,
+    "height": 2048,
+    "grain": null,
+    "repeatMm": [
+      1300,
+      2800
+    ],
+    "avgColor": "#d3cec8"
+  },
+  {
+    "code": "U702",
+    "source": "egger",
+    "url": "https://cdn.egger.com/img/pim/8854449356830/8854449389598/original.png",
+    "width": 951,
+    "height": 2048,
+    "grain": null,
+    "repeatMm": [
+      1300,
+      2800
+    ],
+    "avgColor": "#d8cabd"
+  },
+  {
+    "code": "H1145",
+    "source": "egger",
+    "url": "https://cdn.egger.com/img/pim/8854363537438/8854522462238/original.png",
+    "width": 951,
+    "height": 2048,
+    "grain": "y",
+    "repeatMm": [
+      1300,
+      2800
+    ],
+    "avgColor": "#c2a486"
+  },
+  {
+    "code": "H1313",
+    "source": "egger",
+    "url": "https://cdn.egger.com/img/pim/8854374547486/8854527606814/original.png",
+    "width": 951,
+    "height": 2048,
+    "grain": "y",
+    "repeatMm": [
+      1300,
+      2800
+    ],
+    "avgColor": "#7f736f"
+  },
+  {
+    "code": "H1710",
+    "source": "egger",
+    "url": "https://cdn.egger.com/img/pim/8854385950750/8854531702814/original.png",
+    "width": 951,
+    "height": 2048,
+    "grain": "y",
+    "repeatMm": [
+      1300,
+      2800
+    ],
+    "avgColor": "#cbb399"
+  },
+  {
+    "code": "H3398",
+    "source": "egger",
+    "url": "https://cdn.egger.com/img/pim/8854414753822/8854543073310/original.png",
+    "width": 951,
+    "height": 2048,
+    "grain": "y",
+    "repeatMm": [
+      1300,
+      2800
+    ],
+    "avgColor": "#92673f"
+  },
+  {
+    "code": "H3331",
+    "source": "egger",
+    "url": "https://cdn.egger.com/img/pim/8854411214878/8854541795358/original.png",
+    "width": 951,
+    "height": 2048,
+    "grain": "y",
+    "repeatMm": [
+      1300,
+      2800
+    ],
+    "avgColor": "#c2a47e"
+  },
+  {
+    "code": "H1318",
+    "source": "egger",
+    "url": "https://cdn.egger.com/img/pim/8854374940702/8854527705118/original.png",
+    "width": 951,
+    "height": 2048,
+    "grain": "y",
+    "repeatMm": [
+      1300,
+      2800
+    ],
+    "avgColor": "#c0986d"
+  },
+  {
+    "code": "H3133",
+    "source": "egger",
+    "url": "https://cdn.egger.com/img/pim/8854397452318/8854536978462/original.png",
+    "width": 951,
+    "height": 2048,
+    "grain": "y",
+    "repeatMm": [
+      1300,
+      2800
+    ],
+    "avgColor": "#876d59"
+  }
+]
